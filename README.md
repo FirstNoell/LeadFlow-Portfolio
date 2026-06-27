@@ -28,7 +28,7 @@ This portfolio repository demonstrates the project's architecture, workflow, and
 
 ## Project Workflow
 
-Discovery → Validation → Data Cleaning → Quality Assurance → CRM Export
+Keyword Search → Website Discovery → Validation → Data Cleaning → Quality Assurance → CRM Export
 
 ## Repository Notice
 
