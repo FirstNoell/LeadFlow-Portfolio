@@ -19,11 +19,11 @@ This portfolio repository demonstrates the project's architecture, workflow, and
 ## Technology Stack
 
 * Python
-* Playwright
-* BeautifulSoup
 * Pandas
+* Data Processing
 * CSV Processing
 * API Integration
+
 
 ## Project Workflow
 
