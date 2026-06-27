@@ -18,11 +18,12 @@ This portfolio repository demonstrates the project's architecture, workflow, and
 
 ## Technology Stack
 
-* Python
-* Pandas
-* Data Processing
-* CSV Processing
-* API Integration
+- Python
+- Pandas
+- SQLite
+- Data Processing
+- CSV Processing
+- API Integration
 
 
 ## Project Workflow
