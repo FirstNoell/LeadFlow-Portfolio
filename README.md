@@ -1,6 +1,7 @@
 # LeadFlow Portfolio
 
-**AI-powered Lead Generation and Data Automation System**
+**Python Lead Generation & Data Automation System**
+
 
 LeadFlow is a Python-based automation project designed to streamline lead generation by discovering, validating, cleaning, and preparing CRM-ready business data.
 
@@ -16,14 +17,13 @@ This portfolio repository demonstrates the project's architecture, workflow, and
 * Modular Python architecture
 * Scalable automation workflow
 
-## Technology Stack
+## Technology Stack ay:
 
-- Python
-- Pandas
-- SQLite
-- Data Processing
-- CSV Processing
-- API Integration
+Python
+Pandas
+Data Processing
+CSV Processing
+API Integration
 
 
 ## Project Workflow
