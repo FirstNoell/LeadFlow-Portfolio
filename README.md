@@ -17,13 +17,13 @@ This portfolio repository demonstrates the project's architecture, workflow, and
 * Modular Python architecture
 * Scalable automation workflow
 
-## Technology Stack ay:
+## Technology Stack
 
-Python
-Pandas
-Data Processing
-CSV Processing
-API Integration
+- Python
+- Pandas
+- Data Processing
+- CSV Processing
+- API Integration
 
 
 ## Project Workflow
