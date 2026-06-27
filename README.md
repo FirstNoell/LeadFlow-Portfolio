@@ -36,6 +36,7 @@ This repository is intended as a portfolio showcase.
 
 Some implementation files, business logic, and proprietary automation modules have been intentionally excluded to protect intellectual property while demonstrating the overall system design and development approach.
 
-## Current Status
+## ## Current Status
 
-LeadFlow is under active development, with additional AI-assisted automation features and workflow enhancements planned for future releases.
+LeadFlow currently includes an end-to-end lead generation pipeline covering website discovery, validation, data cleaning, quality assurance, and CRM-ready export. Future updates will expand automation capabilities and introduce additional AI-assisted workflow enhancements.
+
