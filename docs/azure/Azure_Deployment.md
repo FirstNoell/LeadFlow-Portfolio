@@ -121,15 +121,15 @@ Application-level output was independently checked through Azure Log Analytics t
 
 ### Azure Container Apps Job
 
-![Azure Container Apps Job](screenshots/azure_container_app_job_overview.png)
+![Azure Container Apps Job](../../screenshots/azure/azure_container_app_job_overview.png)
 
 ### Successful Cloud Execution
 
-![Successful Azure Job Execution](screenshots/azure_job_execution_succeeded.png)
+![Successful Azure Job Execution](../../screenshots/azure/azure_job_execution_succeeded.png)
 
 ### Verified LeadFlow Results
 
-![LeadFlow Azure Execution Results](screenshots/azure_leadflow_execution_results.png)
+![LeadFlow Azure Execution Results](../../screenshots/azure/azure_leadflow_execution_results.png)
 
 ## Security and Portfolio Hygiene
 
